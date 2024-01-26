@@ -2,29 +2,38 @@
 
 Lightbi is a minimal and clean blog theme for Hugo.
 
-## Live Demo
-
-[lightbi-hugo-theme.netlify.app](https://lightbi-hugo-theme.netlify.app/)
+🌍 [Demo site](https://lightbi-hugo-theme.netlify.app/)  
+📁 [Demo repo](https://github.com/binokochumolvarghese/lightbi-hugo-demo)  
+🐛 [Bug reports & Issues](https://github.com/binokochumolvarghese/lightbi-hugo/issues)  
+💡 [Questions & feature requests](https://github.com/binokochumolvarghese/lightbi-hugo/discussions)  
+📄 [Wiki](https://github.com/binokochumolvarghese/lightbi-hugo/wiki)
 
 ![LightBi Hugo Theme Screenshot](https://raw.githubusercontent.com/binokochumolvarghese/lightbi-hugo/master/images/screenshot.png)
 
 ## Features
 
-- Responsive, mobile-first design
-- Syntax highlighting
-- Social-Media Share buttons on posts.
+### General
+- Three sections for content:
+    - Blog
+    - Notes
+    - Collections (Newsletter)
+- Responsive, mobile-first design.
+- Card based theme.
 - Menu location indicator.
 - Multilingual support. (with language selector)
-- Taxonomies
-- Cover image for each post (with Responsive image support).
+- Taxonomies.
 - Light/Dark theme (automatic theme switch a/c to browser theme and theme-switch button).
-- Google Analytics
+- Google Analytics.
 - SEO Friendly.
-- Other Posts suggestion below a post
-- Commit SHA on the footer
-- Self Hosted assets for GDPR / EU-DSGVO compliance
-- Beautiful icons with Bootstrap Icons
+- Commit SHA on the footer.
+- Self Hosted assets for GDPR / EU-DSGVO compliance.
+- Beautiful icons with Bootstrap Icons.
 
+### Page
+- Other Posts suggestion below a post
+- Social-Media Share buttons on posts.
+- Syntax highlighting.
+- Cover image for each post (with Responsive image support).
 
 ## Installation
 
@@ -41,9 +50,16 @@ hugo server
 
 After the above copy the contents of `exampleSite` to the `content` folder in your website.
 
-## For more
+## Wiki
 
 Checkout the [wiki](https://github.com/binokochumolvarghese/lightbi-hugo/wiki) page for detailed documentation of the theme features.
+
+## Support & Contribution
+- Star 🌟 this repository.
+- Help to spread the word about Hugo Lightbi by sharing it on social media and recommending it to your friends.
+- Bug reports & issues: [Use GitHub Issues](https://github.com/binokochumolvarghese/lightbi-hugo/issues/new).
+- Ideas for new features: Open a discussion on [GitHub Discussions](https://github.com/binokochumolvarghese/lightbi-hugo/discussions).
+- General questions: Head to [GitHub Discussions](https://github.com/binokochumolvarghese/lightbi-hugo/discussions).
 
 ## Credits
 
